@@ -6,8 +6,9 @@ A collection of Python ETL pipeline projects demonstrating real-world data engin
 
 | Project | Description | API | Storage |
 |---|---|---|---|
-| [Weather ETL](./weather-etl) | Pulls real-time weather data and stores forecasts | Open-Meteo | SQLite |
 | [MBTA Transit ETL](./mbta-etl) | Pulls real-time Red Line predictions at JFK/UMass | MBTA V3 | SQLite |
+| [NFL Fantasy Football ETL](./nfl-fantasy-etl-pipeline) | Pulls real-time Red Line predictions at JFK/UMass | MBTA V3 | SQLite |
+| [Weather ETL](./weather-etl) | Pulls real-time weather data and stores forecasts | Open-Meteo | SQLite |
 
 ## Tech Stack
 
