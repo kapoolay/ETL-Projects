@@ -4,16 +4,16 @@ A Python ETL pipeline that pulls real-time Red Line arrival predictions from the
 
 ## What It Does
 
-- **Extract** — Calls the MBTA V3 API for live Red Line predictions
-- **Transform** — Parses and cleans the JSON response into a pandas DataFrame
-- **Load** — Stores the cleaned data in a local SQLite database
+- **Extract** - Calls the MBTA V3 API for live Red Line predictions
+- **Transform** - Parses and cleans the JSON response into a pandas DataFrame
+- **Load** - Stores the cleaned data in a local SQLite database
 
 ## Tech Stack
 
 - Python 3
-- `requests` — API calls
-- `pandas` — data transformation
-- `sqlite3` — local database storage
+- `requests` - API calls
+- `pandas` - data transformation
+- `sqlite3` - local database storage
 
 ## Project Structure
 
@@ -64,4 +64,4 @@ This will extract, transform, and load the latest predictions into `predictions.
 
 ## API
 
-Uses the [MBTA V3 API](https://api-v3.mbta.com) — no API key required.
+Uses the [MBTA V3 API](https://api-v3.mbta.com) - no API key required.

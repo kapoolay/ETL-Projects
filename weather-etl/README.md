@@ -9,10 +9,10 @@ Runs automatically on a schedule using Windows Task Scheduler.
 ## Tools & Technologies
 
 - Python 3.13
-- requests — API calls
-- pandas — data transformation
-- SQLite — local data storage
-- Windows Task Scheduler — automation
+- requests - API calls
+- pandas - data transformation
+- SQLite - local data storage
+- Windows Task Scheduler - automation
 
 ---
 

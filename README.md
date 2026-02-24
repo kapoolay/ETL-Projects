@@ -12,9 +12,9 @@ A collection of Python ETL pipeline projects demonstrating real-world data engin
 ## Tech Stack
 
 - Python 3
-- `requests` — API calls
-- `pandas` — data transformation
-- `sqlite3` — local data storage
+- `requests` - API calls
+- `pandas` - data transformation
+- `sqlite3` - local data storage
 
 ## Structure
 
